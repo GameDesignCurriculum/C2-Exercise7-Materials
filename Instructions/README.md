@@ -1,1 +1,1 @@
-Add the assignment instructions and any provided materials in this folder
+Refer to **Course 2 Unit 2 Exercise 7 Instructions.pdf** for instructions for completing this exercise.
